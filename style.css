@@ -1,0 +1,85 @@
+body{ 
+    background-image: url("https://images8.alphacoders.com/576/576172.jpg") ;
+    background-size :1200px;;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: rgb(9, 9, 9);
+}
+#nav-contant a{
+    margin:10px ;
+    color: aliceblue;
+  
+ 
+}
+.nav-bar{
+color: aliceblue;
+ padding: 5px;
+  height: 40px;
+  display: flex;
+   justify-content: right;
+   border-bottom: 3px solid aliceblue;
+    max-width: 400px;
+    display: flex  ;
+    justify-content: center;
+    align-items: center;
+    margin: 0  auto;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+h1{
+    text-align: left;
+    color: aliceblue;
+    margin-top: 55px;
+    margin-left: 220px;
+    font-size: 100px;
+    font-family: "Kanit", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  margin-bottom: 5px;
+}
+P{width: 300px;
+  margin-left: 220px;
+  color: aliceblue;
+  margin-top: 0px;
+}
+
+#btn{
+    width: 150px;
+    height: 30px;
+    color: aliceblue;
+    background-color: transparent;
+    border: 2px solid aliceblue;
+    margin-left: 220px;
+
+}
+h3{
+    color: aliceblue;
+    margin-left: 220px;
+    font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: -30px;
+}
+#btn:hover {
+    background-color: aliceblue;
+    color: black;
+    transition:  all 0s;
+    cursor: pointer;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    max-width: 100%;
+    
+}
+footer a{
+    margin: 10px;
+    
+}
+footer img{
+   height: 50px;
+   
+}
